@@ -1,0 +1,1 @@
+"# Git_test"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/rickoday/Git_test.gitgit push -u origin master
